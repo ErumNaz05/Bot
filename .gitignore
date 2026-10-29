@@ -1,0 +1,19 @@
+
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Test reports and results
+playwright-report/
+test-results/
+blob-report/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
